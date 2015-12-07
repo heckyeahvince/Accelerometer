@@ -2,8 +2,6 @@ Sensor-Graph (accelerometerwithopengl)
 ============
 Sensor graph is a C++ Android sample that read current accelerometer values and draw them using OpenGL. (https://github.com/googlesamples/android-ndk/tree/master/sensor-graph)
 
-accelerometerwithopengl-melvincabatuan created by Classroom for GitHub
-
 It demonstrate usage of the following Native C++ API:
 - [Sensors](http://developer.android.com/ndk/reference/group___sensor.html)
 - [Assets](http://developer.android.com/ndk/reference/group___asset.html)
@@ -51,37 +49,3 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-
-
-# This Assignment 
-
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/65bc338c2be439d1a2ed986b97023b1a
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Screenshots:
-
-![screenshot1](device-2015-11-15-060652.png)
-
-![screenshot2](device-2015-11-15-060735.png)
-
-"*When you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.*" - Why The Lucky Stiff
